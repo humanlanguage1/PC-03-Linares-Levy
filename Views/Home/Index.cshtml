@@ -1,0 +1,29 @@
+﻿@model Producto
+@{
+    ViewData["Title"] = "Solicitudes de productos añadidas";
+}
+<body style="background-color: #B9B9B9;">  
+<div class="text-center" style="margin-top: 50px;">
+    <h1 class="display-4">BUSCO</h1>
+</div>
+<div>
+  <img src="https://cdn3.vectorstock.com/i/1000x1000/10/12/a-trolley-shopping-cart-logo-icon-design-shop-vector-26981012.jpg" class="img-fluid" alt="...">
+</div>
+<div style="margin-top: 30px; text-align: center;">
+        <div class="p-3 mb-2 bg-warning text-white">  
+            <h2>Bienvenidos al mejor lugar para gestionar productos!</h2>
+        </div>
+</div>
+<div style="text-align: center; margin-top: 15px;">
+            <a asp-controller="Home" asp-action="Busco"> 
+            <button type="button" class="btn btn-secondary">Ver mis solicitudes registradas</button>
+            </a>
+        </div>
+        
+
+        <div style="text-align: center; margin-top: 15px;">
+            <a asp-controller="Home" asp-action="Producto">
+                <button type="button" class="btn btn-secondary">Agregar nuevos productos</button></a>
+        </div>
+    </div>
+</body>
