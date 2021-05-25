@@ -15619,11 +15619,6 @@
   "RootNamespace": "app",
   "Documents": [
     {
-      "FilePath": "d:\\app\\Views\\Ubicaciones\\NuevaRegion.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\NuevaRegion.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\app\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15659,11 +15654,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\app\\Views\\Ubicaciones\\Regiones.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\Regiones.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\app\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15671,11 +15661,6 @@
     {
       "FilePath": "d:\\app\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\app\\Views\\Ubicaciones\\NuevaRegionConfirmacion.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\NuevaRegionConfirmacion.cshtml",
       "FileKind": "mvc"
     }
   ],
